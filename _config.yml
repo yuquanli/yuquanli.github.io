@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yuquan Li"
 description              : "This is the academic homepage of Ph.D. Li."
-repository               : "yvquanli/yvquanli.github.io"
+repository               : "yuquanli/yuquanli.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -30,14 +30,14 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=lCJi22EAAAAJ"
   email            : "yvquan.li@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yuquan-Li-3"
-  uri              : 
-  bitbucket        :
+  uri              :
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yvquanli"
+  github           : "https://github.com/yvquanli"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,12 +51,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/yvquanli"
+  twitter          : # "https://twitter.com/yvquanli"
   vine             :
   weibo            :
-  xing             :
+  xing             : "Wechat: yvquanli"
   youtube          :
   wikipedia        :
+  wechat           : # "https://github.com/yvquanli"
 
 
 # Reading Files
