@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Li Yuquan, a Ph.D. candidate, is actively engaged in the interdisciplinary arena of artificial intelligence (AI) and drug discovery. He aspires to democratize, publicize, and automate the power of AI in preclinical drug discovery, with a particular emphasis on employing adaptive graph learning for predicting drug molecular properties. To date, Yuquan has authored eight SCI-indexed papers, four of which are in top-tier journals, accumulating a total of 155 citations. His academic journey includes a research internship at Tencent Quantum Laboratory. He is a recipient of the Tang Aoqing Chemistry Scholarship.
+Li Yuquan, a Ph.D. candidate, is actively engaged in the interdisciplinary arena of artificial intelligence (AI) and drug discovery. He aspires to democratize, publicize, and automate the power of AI in preclinical drug discovery, with a particular emphasis on employing adaptive graph learning for predicting drug molecular properties. To date, Yuquan has authored 10 SCI-indexed papers, 4 of which are in top-tier journals with main authorship, accumulating a total of 157 citations. His academic journey includes a research internship at Tencent Quantum Laboratory. He is a recipient of the Tang Aoqing Chemistry Scholarship.
 
 
 <!-- <a href='https://scholar.google.com/citations?user=lCJi22EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
@@ -56,6 +56,8 @@ His research interest includes:
 
 ### All
 #### 2023
+- Xiaodan Yin, Xiaorui Wang, **Yuquan Li**, Jike Wang, Yuwei Wang, Yafeng Deng, Tingjun Hou, Huanxiang Liu, Pei Luo, and Xiaojun Yao. "CODD-Pred: A Web Server for Efficient Target Identification and Bioactivity Prediction of Small Molecules." **Journal of Chemical Information and Modeling** 63.20 (2023): 6169-6176. [[HTML]](https://doi.org/10.1021/acs.jcim.3c00685) [[PDF]](/pdf/2023_coddpred.pdf)
+- Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, **Yuquan Li**, Heqi Sun, Kyoung Tai No, Tao Song, ,Xiangxiang Zeng. "An interface-based molecular generative framework for protein-protein interaction inhibitors." **bioRxiv** (2023): 2023-10.[[HTML]](https://doi.org/10.1101/2023.10.10.557742) [[PDF]](/pdf/2023_an_interface_based.pdf)
 - Ruiqiang Lu, Jun Wang, Pengyong Li, **Yuquan Li**, Shuoyan Tan, Yiting Pan, Huanxiang Liu, Peng Gao, Guotong Xie, Xiaojun Yao. "Improving drug-target affinity prediction via feature fusion and knowledge distillation." **Briefings in Bioinformatics.** 24.3 (2023): bbad145. [[HTML]](https://doi.org/10.1093/bib/bbad145) 
 - Xiaorui Wang, Chang-Yu Hsieh, Xiaodan Yin, Jike Wang, **Yuquan Li**, Yafeng Deng, Dejun Jiang, Zhenxing Wu, Hongyan Du, Hongming Chen, Yun Li, Huanxiang Liu, Yuwei Wang, Pei Luo, Tingjun Hou, Xiaojun Yao.  "Generic Interpretable Reaction Condition Predictions with Open Reaction Condition Datasets and Unsupervised Learning of Reaction Center." **Research** 6 (2023): 0231. [[HTML]](https://doi.org/10.1101/2023.08.01.551396) [[PDF]](/pdf/2023_generic_interpretable_reaction.pdf)
 - Shuo Liu, Jialiang Yu, Ningxi Ni, Zidong Wang, Mengyun Chen, **Yuquan Li**, Chen Xu, Yahao Ding, Jun Zhang, Xiaojun Yao, Huanxiang Liu. "A versatile framework for drug-target interaction prediction by considering domain specific features." **bioRxiv** (2023): 2023-08. [[HTML]](https://doi.org/10.34133/research.0231) [[PDF]](/pdf/2023_a_versatile_framework.pdf)
