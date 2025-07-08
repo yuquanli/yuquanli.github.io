@@ -17,56 +17,56 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuquan Li, Distinguished Professor, Master's Supervisor at Guizhou University. He has long been engaged in the research of artificial intelligence and scientific intelligence. His related work has been published as the first author in journals such as the Nature sub-journal "[Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00501-8)". So far, he has published 10 SCI papers with an H-index of 8 and a total of 326 citations. He serves as a youth editorial board member of the journal "[Exploration](https://onlinelibrary.wiley.com/journal/27662098)".
+Yuquan Li, Distinguished Professor, Master's Supervisor at Guizhou University. He has long been engaged in the research of artificial intelligence and scientific intelligence. His related work has been published as the first author in journals such as the Nature sub-journal "[Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00501-8)". So far, he has published 10 SCI papers with an H-index of 8 and a total of 326 citations. He serves as a youth editorial board member of the journal "[Exploration](https://onlinelibrary.wiley.com/journal/27662098)".  
 
-Main research directions include:
-- Basic AI research: large language models, graph learning, automated machine learning
-- AI for Science research: AI molecular design, AI material design
+Main research directions include:  
+- Basic AI research: large language models, graph learning, automated machine learning  
+- AI for Science research: AI molecular design, AI material design  
 
-**Recruiting now**: Relying on the team, there are many master's degree quotas and 1 doctoral quota each year. Students can be recommended to Zhejiang University and the Chinese University of Hong Kong for doctoral studies or to Tencent for internships! This team focuses on paper publication, providing in-depth scientific research training, specific topic selection and guidance, rich computing resources, and additional financial support to ensure that every master's student can publish a first-author SCI Q1/CCF A paper before graduation. Outstanding students will be fully supported to publish first-author CNS sub-journal papers.
+**Recruiting now**: Relying on the team, there are many master's degree quotas and 1 doctoral quota each year. Students can be recommended to Zhejiang University and the Chinese University of Hong Kong for doctoral studies or to Tencent for internships! This team focuses on paper publication, providing in-depth scientific research training, specific topic selection and guidance, rich computing resources, and additional financial support to ensure that every master's student can publish a first-author SCI Q1/CCF A paper before graduation. Outstanding students will be fully supported to publish first-author CNS sub-journal papers.  
 
 <span class='anchor' id='educations'></span>
 
 # 🎓 Educations
-*2019.9 - 2024.6* &emsp;Master and PhD - Lanzhou University, College of Chemistry and Chemical Engineering (Major: Chemoinformatics, Supervisor: [Professor Yao Xiaojun](https://www.mpu.edu.mo/esca/zh/yaoxiaojun.php))
-*2015.9 - 2019.6* &emsp;Bachelor - Qinghai University, College of Computer Science and Technology (Major: Computer Science and Technology)
+*2019.9 - 2024.6* &emsp;Master and PhD - Lanzhou University, College of Chemistry and Chemical Engineering (Major: Chemoinformatics, Supervisor: [Professor Yao Xiaojun](https://www.mpu.edu.mo/esca/zh/yaoxiaojun.php))  
+*2015.9 - 2019.6* &emsp;Bachelor - Qinghai University, College of Computer Science and Technology (Major: Computer Science and Technology)  
 
 <span class='anchor' id='jobs'></span>
 
 # 🧑‍💻 Jobs
-*2024.10 - Present* &emsp;&emsp;&ensp;[Guizhou University, State Key Laboratory of Public Big Data](https://pbd.gzu.edu.cn/2024/1122/c17349a242836/page.htm) Distinguished Professor, Master's Supervisor
-*2024.10 - Present* &emsp;&emsp;&ensp;[Guizhou University, College of Computer Science and Technology](https://cs.gzu.edu.cn/16246/list.htm) Master's Supervisor
-*2022.7 - 2023.4* &emsp;[Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/), [Jie Fu's Team](https://bigaidream.github.io/) Research Intern
-*2020.8 - 2022.6* &emsp;[Tencent, Quantum Lab](htps://quantum.tencent.com/) Joint Training (Co-supervisor: [Dr. Hsieh Chang-Yu](https://person.zju.edu.cn/changyuhsieh))
+*2024.10 - Present* &emsp;&emsp;&ensp;[Guizhou University, State Key Laboratory of Public Big Data](https://pbd.gzu.edu.cn/2024/1122/c17349a242836/page.htm) Distinguished Professor, Master's Supervisor   
+*2024.10 - Present* &emsp;&emsp;&ensp;[Guizhou University, College of Computer Science and Technology](https://cs.gzu.edu.cn/16246/list.htm) Master's Supervisor    
+*2022.7 - 2023.4* &emsp;[Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/), [Jie Fu's Team](https://bigaidream.github.io/) Research Intern    
+*2020.8 - 2022.6* &emsp;[Tencent, Quantum Lab](htps://quantum.tencent.com/) Joint Training (Co-supervisor: [Dr. Hsieh Chang-Yu](https://person.zju.edu.cn/changyuhsieh))    
 
 <span class='anchor' id='projects'></span>
 
 # 📑 Projects
-[1] Guizhou University Talent Introduction Special Post Project, Research on New Methods for Multi-constraint Small Molecule Compound Generation and Design based on Artificial Intelligence, 2024.10-2028.10, 400,000 RMB, PI.
+[1] Guizhou University Talent Introduction Special Post Project, Research on New Methods for Multi-constraint Small Molecule Compound Generation and Design based on Artificial Intelligence, 2024.10-2028.10, 400,000 RMB, PI.  
 
 <span class='anchor' id='people'></span>
 
 # 👥 People
-Zhang Xiao, &emsp; '21 PhD student, Research direction: AI nucleic acid pesticide design.
-Dong Xinyu, '24 PhD student, Research direction: Molecular generation design.
-Huang Guangyi, '24 PhD student, Research direction: Enzyme active site prediction.
-Gong Daohong, '22 Master's student, Research direction: Molecular generation design.
-Xie Chaoyang, '23 Master's student, Research direction: Molecular property prediction (Q1 journal, under review).
-Zhou Jun, &emsp;'24 Master's student, Research direction: Protein function prediction.
-Zhang Jun, &emsp;'24 Master's student, Research direction: Protein interaction prediction.
-Zhang Yilun, '24 Master's student, Research direction: Enzyme function and active site prediction.
-Wu Nanwan, '24 Master's student, Research direction: AI antibody-drug conjugate design.
-Luo Xixuan, '24 Master's student, Research direction: AI drug-drug synergy prediction.
-Zhang Longbiao, '24 Master's student, Research direction: AI drug delivery material design.
-Hong Huiyang, '22 Undergraduate, Research direction: Small molecule property prediction (Communications Chemistry, Q1 journal, under revision).
-*Co-supervisors are Professor Hao Gefei and Professor Wang Qi from Guizhou University
+Zhang Xiao, &emsp; '21 PhD student, Research direction: AI nucleic acid pesticide design.  
+Dong Xinyu, '24 PhD student, Research direction: Molecular generation design.  
+Huang Guangyi, '24 PhD student, Research direction: Enzyme active site prediction.  
+Gong Daohong, '22 Master's student, Research direction: Molecular generation design.  
+Xie Chaoyang, '23 Master's student, Research direction: Molecular property prediction (Q1 journal, under review).  
+Zhou Jun, &emsp;'24 Master's student, Research direction: Protein function prediction.  
+Zhang Jun, &emsp;'24 Master's student, Research direction: Protein interaction prediction.  
+Zhang Yilun, '24 Master's student, Research direction: Enzyme function and active site prediction.  
+Wu Nanwan, '24 Master's student, Research direction: AI antibody-drug conjugate design.  
+Luo Xixuan, '24 Master's student, Research direction: AI drug-drug synergy prediction.  
+Zhang Longbiao, '24 Master's student, Research direction: AI drug delivery material design.  
+Hong Huiyang, '22 Undergraduate, Research direction: Small molecule property prediction (Communications Chemistry, Q1 journal, under revision).  
+*Co-supervisors are Professor Hao Gefei and Professor Wang Qi from Guizhou University  
 
-Wang Shihang, '25 PhD student, Research direction: Automated molecular graph learning, AI+XDC drug design, [Personal Homepage](https://shihang-wang-58.github.io/).
-He Mutian, '25 PhD student, Research direction: Automated molecular graph learning.
-*Co-supervisor is Professor Yao Xiaojun from Macao Polytechnic University
+Wang Shihang, '25 PhD student, Research direction: Automated molecular graph learning, AI+XDC drug design, [Personal Homepage](https://shihang-wang-58.github.io/).  
+He Mutian, '25 PhD student, Research direction: Automated molecular graph learning.  
+*Co-supervisor is Professor Yao Xiaojun from Macao Polytechnic University  
 
-Deep Partner:
-Wang Xiaorui, Postdoctoral fellow in Professor Hou Tingjun's research group at Zhejiang University, Research direction: AI synthesis planning
+Deep Partner:  
+Wang Xiaorui, Postdoctoral fellow in Professor Hou Tingjun's research group at Zhejiang University,   Research direction: AI synthesis planning  
 
 <span class='anchor' id='publications'></span>
 
@@ -107,7 +107,7 @@ Wang Xiaorui, Postdoctoral fellow in Professor Hou Tingjun's research group at Z
 #### 2021
 - **[2021c]** Pengyong Li†, **<font color="#ff9933">Yuquan Li†</font>**, Chang-Yu Hsieh, Shengyu Zhang, Xianggen Liu, Huanxiang Liu, Sen Song\*, Xiaojun Yao\*. TrimNet: learning molecular representation from triplet messages for biomedicine[J]. `Briefings in Bioinformatics`, 2021, 22(4): bbaa266.[[HTML]]( https://doi.org/10.1093/bib/bbaa266) [[PDF]](/pdf/paper_2021c.pdf)
 - **[2021b]** Xiaorui Wang†, **<font color="#ff9933">Yuquan Li†</font>**, Jiezhong Qiu, Guangyong Chen, Huanxiang Liu, Benben Liao\*, Chang-Yu Hsieh\*, Xiaojun Yao\*. RetroPrime: A Diverse, plausible and Transformer-based method for Single-Step retrosynthesis predictions[J]. `Chemical Engineering Journal`, 2021, 420: 129845. [[HTML]](https://doi.org/10.1016/j.cej.2021.129845) [[PDF]](/pdf/paper_2021b.pdf)
-- **[2021a]** **<font color="#ff9933">Yuquan Li</font>**, Pengyong Li, Xing Yang, Chang-Yu Hsieh, Shengyu Zhang, Xiaorui Wang, Ruiqiang Lu, Huanxiang Liu, Xiaojun Yao\*. Introducing block design in graph neural networks for molecular properties prediction[J]. `Chemical Engineering Journal`, 2021, 414: 128817. [[HTML]](https://doi.org/10.1016/j.cej.2021.128817) [[PDF]](/pdf/paper_2021a.pdf)
+- **[2021a]** **<font color="#ff9933">Yuquan Li</font>**, Pengyong Li, Xing Yang, Chang-Yu Hsieh, Shengyu Zhang, Xiaorui Wang, Ruiqiang Lu, Huanxiang Liu, Xiaojun Yao\*. Introducing block design in graph neural networks for molecular properties prediction[J]. `Chemical Engineering Journal`, 2021, 414: 128817. [[HTML]](https://doi.org/10.1016/j.cej.2021.128817) [[PDF]](/pdf/paper_2021a.pdf)  
 
 <span class='anchor' id='activity'></span>
 
