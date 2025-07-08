@@ -4,17 +4,22 @@ main:
     url: "/#about-me"
 
   - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Publications"
-    url: "/#-publications"
+    url: "/#educations"
 
   - title: "Jobs"
-    url: "/#-jobs"
+    url: "/#jobs"
 
-  - title: "Competitions"
-    url: "/#-competitions"
+  # - title: "Projects"
+  #   url: "/#projects"
 
-  - title: "Rewards"
-    url: "/#-rewards"
+  - title: "People"
+    url: "/#people"
 
+  - title: "Publications"
+    url: "/#publications"
+
+  - title: "Activity"
+    url: "/#activity"
+
+  - title: "Others"
+    url: "/#others"
