@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuquan Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lanzhou University "
-  location         : "Lanzhou, China"
+  bio              : "Guizhou University "
+  location         : "Guizhou, China"
   employer         : #"None"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Yuquan+Li"
   googlescholar    : "https://scholar.google.com/citations?user=lCJi22EAAAAJ"
